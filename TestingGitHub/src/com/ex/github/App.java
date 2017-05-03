@@ -10,6 +10,7 @@ public class App {
 		sales.setName("books");
 		
 		System.out.println(sales.getId()+"   "+sales.getName());
+		System.out.println( "  commited " );
 
 	}
 
