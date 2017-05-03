@@ -11,6 +11,8 @@ public class App {
 		
 		System.out.println(sales.getId()+"   "+sales.getName());
 		System.out.println( "  commited " );
+		 sales.sshowAll();
+		 sales.showAll();
 
 	}
 

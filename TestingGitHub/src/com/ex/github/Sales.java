@@ -26,6 +26,9 @@ public class Sales {
 public void showAll(){
 	System.out.println("item sold are shipped");
 }
+public void sshowAll(){
+	System.out.println("item sold are shipped all of them");
+}
 	private int id;
 	String name;
 
