@@ -13,7 +13,7 @@ public class App {
 		System.out.println( "  commited " );
 		 sales.sshowAll();
 		 sales.showAll();
-
+		 sales.showAll();
 	}
 
 }
